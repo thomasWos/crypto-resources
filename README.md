@@ -41,7 +41,7 @@
 | [Bitcoin google trend](https://trends.google.com/trends/explore?date=all&q=bitcoin) | Google trend for bitcoin |
 | [COIN360](https://coin360.com/)| Market heatmap |
 | [Bitcoin doubling time](https://casebitcoin.com/charts#doubling_time) | Bitcoin doubling time graph |
-| [CoinFairValue](https://www.coinfairvalue.com/) | Bitcoin doubling time graph |
+| [CoinFairValue](https://www.coinfairvalue.com/) | Coin fair value|
 
 
 <div align="right">
